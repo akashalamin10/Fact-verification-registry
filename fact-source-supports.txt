@@ -1,0 +1,1 @@
+GenLayer is a blockchain platform where validators use AI language models to reach consensus on smart contract execution results. This design lets Intelligent Contracts process natural language and access the internet directly as part of consensus.
