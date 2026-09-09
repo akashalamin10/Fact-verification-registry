@@ -1,0 +1,1 @@
+Traditional blockchain validators execute deterministic code only and never invoke external AI models, since non-deterministic AI outputs would break consensus guarantees across validator nodes running identical software.
